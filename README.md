@@ -1,1 +1,1 @@
-# predator-harvester-kakao-github.io
+# predator-harvester-kakao.github.io
